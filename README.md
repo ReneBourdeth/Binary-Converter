@@ -6,7 +6,7 @@ Binary number system, in mathematics, positional numeral system employing 2 as t
 You can try this and more codes by entering this link: https://bit.ly/3u5JbIH
 
 To test the codes first you need to enter the directory, type on the terminal:
-- cd ReneBourdeth
+- cd ReneBourdeth/
 
 To execute Python programs type on the terminal: 
 - python3 (filename).py
