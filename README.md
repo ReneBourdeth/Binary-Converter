@@ -5,12 +5,15 @@ Binary number system, in mathematics, positional numeral system employing 2 as t
 # Try it!
 You can try this and more codes by entering this link: https://bit.ly/3u5JbIH
 
+To enter the files directory type on the terminal:
+- cd ReneBourdeth
+
 To execute Python codes type on the terminal: 
-- python3 (file name).py
+- python3 (filename).py
 
 To execute C codes type on the terminal: 
-- /make (file name)
-- ./(file name)
+- /make (filename)
+- ./(filename)
 
 # How it works / What it does
 
